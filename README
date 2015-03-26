@@ -1,5 +1,5 @@
 An educational iPad game that I made in the summer of 2013 for the University of Toronto's summer program called Science Unlimited. This project was completed under the supervision of Senior Lecturer Steve Engels.
 
-With the current Xcode version (6.1.1), the program does not render properly in terms of the elements sizing properly on screen.
+With the current Xcode version (6.1.1), the program does not render properly in terms of the elements sizing properly on screen. This is because I did not use auto-layout when creating my UI.
 
 
